@@ -1,0 +1,14 @@
+C:\Users\Smenda3\source\repos\vid-7\vid-7\bin\Debug\net10.0\vid-7.exe
+C:\Users\Smenda3\source\repos\vid-7\vid-7\bin\Debug\net10.0\vid-7.deps.json
+C:\Users\Smenda3\source\repos\vid-7\vid-7\bin\Debug\net10.0\vid-7.runtimeconfig.json
+C:\Users\Smenda3\source\repos\vid-7\vid-7\bin\Debug\net10.0\vid-7.dll
+C:\Users\Smenda3\source\repos\vid-7\vid-7\bin\Debug\net10.0\vid-7.pdb
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.AssemblyInfoInputs.cache
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.AssemblyInfo.cs
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.csproj.CoreCompileInputs.cache
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.dll
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\refint\vid-7.dll
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.pdb
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\vid-7.genruntimeconfig.cache
+C:\Users\Smenda3\source\repos\vid-7\vid-7\obj\Debug\net10.0\ref\vid-7.dll

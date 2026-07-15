@@ -1,0 +1,14 @@
+C:\Users\Smenda3\source\repos\vid-4\vid-4\bin\Debug\net10.0\vid-4.exe
+C:\Users\Smenda3\source\repos\vid-4\vid-4\bin\Debug\net10.0\vid-4.deps.json
+C:\Users\Smenda3\source\repos\vid-4\vid-4\bin\Debug\net10.0\vid-4.runtimeconfig.json
+C:\Users\Smenda3\source\repos\vid-4\vid-4\bin\Debug\net10.0\vid-4.dll
+C:\Users\Smenda3\source\repos\vid-4\vid-4\bin\Debug\net10.0\vid-4.pdb
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.AssemblyInfoInputs.cache
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.AssemblyInfo.cs
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.csproj.CoreCompileInputs.cache
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.dll
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\refint\vid-4.dll
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.pdb
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\vid-4.genruntimeconfig.cache
+C:\Users\Smenda3\source\repos\vid-4\vid-4\obj\Debug\net10.0\ref\vid-4.dll
