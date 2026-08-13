@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\RentalPs\RentalPs\bin\Debug\RentalPs.exe.config
+C:\Users\user\source\repos\RentalPs\RentalPs\bin\Debug\RentalPs.exe
+C:\Users\user\source\repos\RentalPs\RentalPs\bin\Debug\RentalPs.pdb
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.Form1.resources
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.Properties.Resources.resources
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.exe
+C:\Users\user\source\repos\RentalPs\RentalPs\obj\Debug\RentalPs.pdb
