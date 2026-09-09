@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\bin\Debug\net10.0\jadwal.exe
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\bin\Debug\net10.0\jadwal.deps.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\bin\Debug\net10.0\jadwal.runtimeconfig.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\bin\Debug\net10.0\jadwal.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\bin\Debug\net10.0\jadwal.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.AssemblyInfo.cs
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.sourcelink.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\refint\jadwal.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\jadwal.genruntimeconfig.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Jadwal_8_Sep_2026\jadwal\jadwal\obj\Debug\net10.0\ref\jadwal.dll
