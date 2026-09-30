@@ -1,0 +1,28 @@
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.exe
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.deps.json
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.runtimeconfig.json
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.dll
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.pdb
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.AssemblyInfoInputs.cache
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.AssemblyInfo.cs
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.csproj.CoreCompileInputs.cache
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.dll
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\refint\SEMUA BAB.dll
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.pdb
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.genruntimeconfig.cache
+E:\Pdf ggl drive\SEMUA BAB\SEMUA BAB\obj\Debug\net10.0\ref\SEMUA BAB.dll
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.exe
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.deps.json
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.runtimeconfig.json
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.dll
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\bin\Debug\net10.0\SEMUA BAB.pdb
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.AssemblyInfo.cs
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.dll
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\refint\SEMUA BAB.dll
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.pdb
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\SEMUA BAB.genruntimeconfig.cache
+C:\Users\user\OneDrive\Dokumen\SEMUA BAB\obj\Debug\net10.0\ref\SEMUA BAB.dll
