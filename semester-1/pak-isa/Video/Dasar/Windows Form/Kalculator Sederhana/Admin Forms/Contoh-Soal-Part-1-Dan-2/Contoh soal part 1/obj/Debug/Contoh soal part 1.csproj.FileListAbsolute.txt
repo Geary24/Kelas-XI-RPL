@@ -1,0 +1,72 @@
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.AssemblyReference.cache
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form1Login.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form2register.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form3Dashboard.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form4MasterBandara.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form5MasterMaskapai.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form6MasterJadwalPenerbangan.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form7MasterKodePromo.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form8UbahStatusPenerbangan.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Properties.Resources.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.GenerateResource.cache
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form9Customermain.resources
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe.config
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.pdb
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.exe
+C:\Users\LIVA\Documents\MIRZA KELAS-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\windows form\Admin form\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.pdb
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe.config
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.pdb
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.AssemblyReference.cache
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form1Login.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form2register.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form3Dashboard.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form4MasterBandara.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form5MasterMaskapai.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form6MasterJadwalPenerbangan.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form7MasterKodePromo.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form8UbahStatusPenerbangan.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form9Customermain.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Properties.Resources.resources
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.GenerateResource.cache
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.CoreCompileInputs.cache
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.exe
+F:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.pdb
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe.config
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\bin\Debug\Contoh soal part 1.pdb
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.AssemblyReference.cache
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form1Login.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form2register.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form3Dashboard.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form4MasterBandara.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form5MasterMaskapai.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form6MasterJadwalPenerbangan.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form7MasterKodePromo.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form8UbahStatusPenerbangan.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form9Customermain.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Properties.Resources.resources
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.GenerateResource.cache
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.CoreCompileInputs.cache
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.exe
+E:\Mirza-XI-RPL-main\KELAS-XI-RPL-main\semester 1\tugas-pak-isa\video\Contoh saol part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe.config
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\bin\Debug\Contoh soal part 1.exe
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\bin\Debug\Contoh soal part 1.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form1Login.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form2register.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form3Dashboard.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form4MasterBandara.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form5MasterMaskapai.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form6MasterJadwalPenerbangan.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form7MasterKodePromo.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form8UbahStatusPenerbangan.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form9Customermain.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Properties.Resources.resources
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh soal part 1.exe
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Video\Windows Form\Admin Forms\Contoh-Soal-Part-1-Dan-2\Contoh soal part 1\obj\Debug\Contoh soal part 1.pdb
