@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\bin\Debug\net10.0\Absensi.exe
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\bin\Debug\net10.0\Absensi.deps.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\bin\Debug\net10.0\Absensi.runtimeconfig.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\bin\Debug\net10.0\Absensi.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\bin\Debug\net10.0\Absensi.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.AssemblyInfo.cs
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.sourcelink.json
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\refint\Absensi.dll
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.pdb
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\Absensi.genruntimeconfig.cache
+C:\Users\user\Downloads\Kelas-XI-RPL\semester-1\pak-isa\Kelas\Tugas_Absensi_8_Sep_2026\Absensi\Absensi\obj\Debug\net10.0\ref\Absensi.dll
